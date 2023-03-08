@@ -7,7 +7,6 @@ markmap:
 
 ## [Bahdanau attention](https://arxiv.org/abs/1409.0473)
 
-
 ## [Luong attention](https://arxiv.org/abs/1508.04025)
 
 ## [Weight tying](https://arxiv.org/abs/1608.05859)
@@ -63,3 +62,5 @@ markmap:
 ### [FEVER](https://arxiv.org/abs/1803.05355)
 
 ### [SQuAD](https://arxiv.org/abs/1606.05250)
+
+### [KILT](https://arxiv.org/abs/2009.02252)
