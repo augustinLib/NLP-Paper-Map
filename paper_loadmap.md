@@ -34,6 +34,11 @@ markmap:
 ### [GPT-1](https://openai.com/research/language-unsupervised)
 - [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
   - [GPT-3](https://arxiv.org/abs/2005.14165)
+    - Open Access
+      - [BLOOM](https://arxiv.org/abs/2211.05100)
+    - RLHF (Reinformcement Learning Human Feedback)
+      - [InstructGPT](https://arxiv.org/abs/2203.02155)
+    - [PALM](https://arxiv.org/abs/2204.02311)
 
 ### [BART](https://arxiv.org/abs/1910.13461)
 - 성능 향상
@@ -50,6 +55,15 @@ markmap:
   - [Relative positional encoding](https://arxiv.org/abs/1803.02155)
   - [Longformer](https://arxiv.org/abs/2004.05150)
 
+### Retrieval-Augmented Language Model
+- [DPR](https://arxiv.org/abs/2004.04906)
+- [ORQA](https://arxiv.org/abs/2108.13817)
+  - [REALM](https://arxiv.org/abs/2002.08909)
+    - [RAG](https://arxiv.org/abs/2005.11401)
+      - [Re2G](https://arxiv.org/abs/2207.06300)
+      - [Atlas](https://arxiv.org/abs/2208.03299)
+      - [REPLUG](https://arxiv.org/abs/2301.12652)
+  
 
 
 
@@ -64,3 +78,9 @@ markmap:
 ### [SQuAD](https://arxiv.org/abs/1606.05250)
 
 ### [KILT](https://arxiv.org/abs/2009.02252)
+
+
+## Distributed-Learning
+- [Megatron-LM](https://arxiv.org/abs/1909.08053)
+- [Zero](https://arxiv.org/abs/1910.02054)
+  - [Zero-Infinity](https://arxiv.org/abs/2104.07857)
