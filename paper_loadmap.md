@@ -13,7 +13,7 @@ markmap:
 
 ## [Transformer](https://arxiv.org/abs/1706.03762)
 
-### [BERT](https://arxiv.org/abs/1810.04805)
+### Encoder-Omly [BERT](https://arxiv.org/abs/1810.04805)
 - 성능 향상
   - [RoBERTa](https://arxiv.org/abs/1907.11692)
   - [Big Bird](https://arxiv.org/abs/2007.14062)
@@ -31,7 +31,7 @@ markmap:
   - [ALBERT](https://arxiv.org/abs/1909.11942)
 
 
-### [GPT-1](https://openai.com/research/language-unsupervised)
+### Decoder-Only [GPT-1](https://openai.com/research/language-unsupervised)
 - [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
   - [GPT-3](https://arxiv.org/abs/2005.14165)
     - Open Access
@@ -40,7 +40,7 @@ markmap:
       - [InstructGPT](https://arxiv.org/abs/2203.02155)
     - [PALM](https://arxiv.org/abs/2204.02311)
 
-### [BART](https://arxiv.org/abs/1910.13461)
+### Encoder-Decoder [BART](https://arxiv.org/abs/1910.13461)
 - 성능 향상
   - [T5](https://arxiv.org/abs/1910.10683)
 - multimodal
@@ -59,7 +59,7 @@ markmap:
 - [DPR](https://arxiv.org/abs/2004.04906)
 - [ORQA](https://arxiv.org/abs/2108.13817)
   - [REALM](https://arxiv.org/abs/2002.08909)
-    - [RAG](https://arxiv.org/abs/2005.11401)
+    - Reader -> Generator [RAG](https://arxiv.org/abs/2005.11401)
       - [Re2G](https://arxiv.org/abs/2207.06300)
       - [Atlas](https://arxiv.org/abs/2208.03299)
       - [REPLUG](https://arxiv.org/abs/2301.12652)
@@ -77,7 +77,7 @@ markmap:
 
 ### [SQuAD](https://arxiv.org/abs/1606.05250)
 
-### [KILT](https://arxiv.org/abs/2009.02252)
+### Knowledge-Intensive Task [KILT](https://arxiv.org/abs/2009.02252)
 
 
 ## Distributed-Learning
