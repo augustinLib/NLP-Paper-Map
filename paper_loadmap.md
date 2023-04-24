@@ -63,6 +63,7 @@ markmap:
       - [Re2G](https://arxiv.org/abs/2207.06300)
       - [Atlas](https://arxiv.org/abs/2208.03299)
       - [REPLUG](https://arxiv.org/abs/2301.12652)
+      - [Contriever](https://arxiv.org/abs/2112.09118)
   
 
 
