@@ -5,4 +5,4 @@
 ![1](https://user-images.githubusercontent.com/74291999/223696568-01ca595e-21c5-431b-971a-0af94593ddc4.png)
 
 This paper map build by markdown([markmap](https://markmap.js.org/))  
-It will be restructured by streamlit or react
+It will be restructured by Flutter
