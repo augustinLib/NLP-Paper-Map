@@ -13,7 +13,7 @@ markmap:
 
 ## [Transformer](https://arxiv.org/abs/1706.03762)
 
-### Encoder-Omly [BERT](https://arxiv.org/abs/1810.04805)
+### Encoder-Only [BERT](https://arxiv.org/abs/1810.04805)
 - 성능 향상
   - [RoBERTa](https://arxiv.org/abs/1907.11692)
   - [Big Bird](https://arxiv.org/abs/2007.14062)
@@ -78,7 +78,9 @@ markmap:
 
 ### [SQuAD](https://arxiv.org/abs/1606.05250)
 
-### Knowledge-Intensive Task [KILT](https://arxiv.org/abs/2009.02252)
+### Knowledge-Intensive Task 
+  - [KILT](https://arxiv.org/abs/2009.02252)
+  - [BEIR](https://arxiv.org/abs/2104.08663)
 
 
 ## Distributed-Learning
