@@ -35,6 +35,7 @@ markmap:
 - [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
   - [GPT-3](https://arxiv.org/abs/2005.14165)
     - Open Access
+      - [LLAMA](https://arxiv.org/abs/2302.13971)
       - [BLOOM](https://arxiv.org/abs/2211.05100)
     - RLHF (Reinformcement Learning Human Feedback)
       - [InstructGPT](https://arxiv.org/abs/2203.02155)
