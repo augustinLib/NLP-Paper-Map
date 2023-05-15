@@ -34,16 +34,22 @@ markmap:
 ### Decoder-Only [GPT-1](https://openai.com/research/language-unsupervised)
 - [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
   - [GPT-3](https://arxiv.org/abs/2005.14165)
+    - Self-Instruction
+      - [Self-Instruct](https://arxiv.org/abs/2212.10560)
     - Open Access
       - [LLAMA](https://arxiv.org/abs/2302.13971)
+        - Instruction-follwing
+          - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
       - [BLOOM](https://arxiv.org/abs/2211.05100)
     - RLHF (Reinformcement Learning Human Feedback)
       - [InstructGPT](https://arxiv.org/abs/2203.02155)
     - [PALM](https://arxiv.org/abs/2204.02311)
+      - [Flan-PALM](https://arxiv.org/abs/2210.11416)
 
 ### Encoder-Decoder [BART](https://arxiv.org/abs/1910.13461)
 - 성능 향상
   - [T5](https://arxiv.org/abs/1910.10683)
+    - [T0](https://arxiv.org/abs/2110.08207)
 - multimodal
   - [METALM](https://arxiv.org/abs/2206.06336)
     - [KOSMOS-1](https://arxiv.org/abs/2302.14045)
@@ -84,7 +90,9 @@ markmap:
   - [BEIR](https://arxiv.org/abs/2104.08663)
 
 
-## Distributed-Learning
-- [Megatron-LM](https://arxiv.org/abs/1909.08053)
-- [Zero](https://arxiv.org/abs/1910.02054)
-  - [Zero-Infinity](https://arxiv.org/abs/2104.07857)
+## Effficient Training
+- [Mixed Precision](https://arxiv.org/abs/1710.03740)
+- Distributed learning
+  - [Megatron-LM](https://arxiv.org/abs/1909.08053)
+  - [Zero](https://arxiv.org/abs/1910.02054)
+    - [Zero-Infinity](https://arxiv.org/abs/2104.07857)
