@@ -61,6 +61,7 @@ markmap:
   - [Reformer](https://arxiv.org/abs/2001.04451)
   - [Relative positional encoding](https://arxiv.org/abs/1803.02155)
   - [Longformer](https://arxiv.org/abs/2004.05150)
+  - [FNet](https://arxiv.org/abs/2105.03824)
 
 ### Retrieval-Augmented Language Model
 - [DPR](https://arxiv.org/abs/2004.04906)
