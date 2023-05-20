@@ -44,6 +44,7 @@ markmap:
     - RLHF (Reinformcement Learning Human Feedback)
       - [InstructGPT](https://arxiv.org/abs/2203.02155)
     - [PALM](https://arxiv.org/abs/2204.02311)
+      - [PALM2](https://ai.google/static/documents/palm2techreport.pdf)
       - [Flan-PALM](https://arxiv.org/abs/2210.11416)
 
 ### Encoder-Decoder [BART](https://arxiv.org/abs/1910.13461)
