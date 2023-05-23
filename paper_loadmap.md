@@ -40,9 +40,12 @@ markmap:
       - [LLAMA](https://arxiv.org/abs/2302.13971)
         - Instruction-follwing
           - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+          - [LIMA](https://arxiv.org/abs/2305.11206)
       - [BLOOM](https://arxiv.org/abs/2211.05100)
+        - [BLOOMZ](https://arxiv.org/abs/2211.01786)
     - RLHF (Reinformcement Learning Human Feedback)
       - [InstructGPT](https://arxiv.org/abs/2203.02155)
+        - [GPT-4](https://arxiv.org/abs/2303.08774)
     - [PALM](https://arxiv.org/abs/2204.02311)
       - [PALM2](https://ai.google/static/documents/palm2techreport.pdf)
       - [Flan-PALM](https://arxiv.org/abs/2210.11416)
@@ -71,6 +74,7 @@ markmap:
   - [REALM](https://arxiv.org/abs/2002.08909)
     - Reader -> Generator [RAG](https://arxiv.org/abs/2005.11401)
       - [Re2G](https://arxiv.org/abs/2207.06300)
+      - [FiD](https://arxiv.org/abs/2007.01282)
       - [Atlas](https://arxiv.org/abs/2208.03299)
       - [REPLUG](https://arxiv.org/abs/2301.12652)
       - [Contriever](https://arxiv.org/abs/2112.09118)
@@ -80,13 +84,10 @@ markmap:
 
 ## Benchmark
 ### [GLUE](https://arxiv.org/abs/1804.07461)
+- [SQuAD](https://arxiv.org/abs/1606.05250)
 - [SuperGLUE](https://arxiv.org/abs/1905.00537)
 
 ### [DecaNLP](https://arxiv.org/abs/1806.08730)
-
-### [FEVER](https://arxiv.org/abs/1803.05355)
-
-### [SQuAD](https://arxiv.org/abs/1606.05250)
 
 ### [BIG-Bench](https://arxiv.org/abs/2206.04615)
 
@@ -96,6 +97,7 @@ markmap:
 
 ### Knowledge-Intensive Task 
   - [KILT](https://arxiv.org/abs/2009.02252)
+    - [FEVER](https://arxiv.org/abs/1803.05355)
   - [BEIR](https://arxiv.org/abs/2104.08663)
 
 
