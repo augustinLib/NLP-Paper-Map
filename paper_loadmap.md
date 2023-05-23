@@ -1,6 +1,6 @@
 ---
 markmap:
-  colorFreezeLevel: 5
+  colorFreezeLevel: 10
   maxWidth: 800
 ---
 # NLP
@@ -50,6 +50,7 @@ markmap:
 ### Encoder-Decoder [BART](https://arxiv.org/abs/1910.13461)
 - 성능 향상
   - [T5](https://arxiv.org/abs/1910.10683)
+    - [FLAN-T5](https://arxiv.org/abs/2210.11416)
     - [T0](https://arxiv.org/abs/2110.08207)
 - multimodal
   - [METALM](https://arxiv.org/abs/2206.06336)
@@ -88,6 +89,10 @@ markmap:
 ### [SQuAD](https://arxiv.org/abs/1606.05250)
 
 ### [BIG-Bench](https://arxiv.org/abs/2206.04615)
+
+### [SUPER-NATURALINSTRUCTIONS](https://arxiv.org/abs/2204.07705)
+
+### [MMLU](https://arxiv.org/abs/2009.03300)
 
 ### Knowledge-Intensive Task 
   - [KILT](https://arxiv.org/abs/2009.02252)
