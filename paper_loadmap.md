@@ -61,6 +61,7 @@ markmap:
 
 ### Transformer 구조 수정
 - Layernorm + initialization
+  - [DeepNet](https://arxiv.org/abs/2203.00555)
   - [MAGNETO](https://arxiv.org/abs/2210.06423)
 - Self-attention 관련
   - [Reformer](https://arxiv.org/abs/2001.04451)
