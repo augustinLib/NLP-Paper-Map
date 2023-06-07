@@ -108,3 +108,5 @@ markmap:
   - [Megatron-LM](https://arxiv.org/abs/1909.08053)
   - [Zero](https://arxiv.org/abs/1910.02054)
     - [Zero-Infinity](https://arxiv.org/abs/2104.07857)
+- [LoRA](https://arxiv.org/abs/2106.09685)
+- [Prompt Tuning](https://arxiv.org/abs/2104.08691)
