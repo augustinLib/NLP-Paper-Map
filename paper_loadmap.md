@@ -69,17 +69,19 @@ markmap:
   - [Longformer](https://arxiv.org/abs/2004.05150)
   - [FNet](https://arxiv.org/abs/2105.03824)
 
-### Retrieval-Augmented Language Model
-- [DPR](https://arxiv.org/abs/2004.04906)
-- [ORQA](https://arxiv.org/abs/2108.13817)
-  - [REALM](https://arxiv.org/abs/2002.08909)
-    - Reader -> Generator [RAG](https://arxiv.org/abs/2005.11401)
-      - [Re2G](https://arxiv.org/abs/2207.06300)
-      - [FiD](https://arxiv.org/abs/2007.01282)
-      - [Atlas](https://arxiv.org/abs/2208.03299)
-      - [REPLUG](https://arxiv.org/abs/2301.12652)
-      - [Contriever](https://arxiv.org/abs/2112.09118)
-  
+### LM with External Knowledge
+- with Document
+  - [DPR](https://arxiv.org/abs/2004.04906)
+  - [ORQA](https://arxiv.org/abs/2108.13817)
+    - [REALM](https://arxiv.org/abs/2002.08909)
+      - Reader -> Generator [RAG](https://arxiv.org/abs/2005.11401)
+        - [Re2G](https://arxiv.org/abs/2207.06300)
+        - [FiD](https://arxiv.org/abs/2007.01282)
+        - [Atlas](https://arxiv.org/abs/2208.03299)
+        - [REPLUG](https://arxiv.org/abs/2301.12652)
+        - [Contriever](https://arxiv.org/abs/2112.09118)
+- with Graph
+  - [DiFaR](https://arxiv.org/abs/2305.12416)
 
 
 
