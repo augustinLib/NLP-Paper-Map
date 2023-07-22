@@ -80,8 +80,12 @@ markmap:
         - [Atlas](https://arxiv.org/abs/2208.03299)
         - [REPLUG](https://arxiv.org/abs/2301.12652)
         - [Contriever](https://arxiv.org/abs/2112.09118)
-- with Graph
+- with KG
   - [DiFaR](https://arxiv.org/abs/2305.12416)
+  - [Retrieve-Rerank Framework](https://aclanthology.org/2021.eacl-main.26/)
+
+- Document + KG
+  - [UniK-QA](https://arxiv.org/abs/2012.14610)
 
 
 
