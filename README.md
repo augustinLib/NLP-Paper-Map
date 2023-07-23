@@ -9,3 +9,7 @@ It will be restructured by React
 
 ## Paper Review
 You can also see reviews in [here](https://github.com/augustinLib/All-of-NLP)
+
+## Contribution
+If you have any papers you would like to add, please add `Issue` or open `PR`! 🙇🏻  
+I'll reflect what you suggested right after the review
