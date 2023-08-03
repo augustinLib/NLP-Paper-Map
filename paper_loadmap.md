@@ -74,6 +74,8 @@ markmap:
 ### LM with External Knowledge
 - with Document
   - [DPR](https://arxiv.org/abs/2004.04906)
+    - [Contriever](https://arxiv.org/abs/2112.09118)
+    - [SamToNe](https://arxiv.org/abs/2306.02516)
   - [ORQA](https://arxiv.org/abs/2108.13817)
     - [REALM](https://arxiv.org/abs/2002.08909)
       - Reader -> Generator [RAG](https://arxiv.org/abs/2005.11401)
@@ -81,7 +83,8 @@ markmap:
         - [FiD](https://arxiv.org/abs/2007.01282)
         - [Atlas](https://arxiv.org/abs/2208.03299)
         - [REPLUG](https://arxiv.org/abs/2301.12652)
-        - [Contriever](https://arxiv.org/abs/2112.09118)
+        - [EAR](https://arxiv.org/abs/2305.17080)
+  
 - with KG
   - [DiFaR](https://arxiv.org/abs/2305.12416)
   - [Retrieve-Rerank Framework](https://aclanthology.org/2021.eacl-main.26/)
