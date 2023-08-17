@@ -60,7 +60,6 @@ markmap:
     - [KOSMOS-1](https://arxiv.org/abs/2302.14045)
   - [Flamingo](https://arxiv.org/abs/2204.14198)
 
-
 ### Transformer 구조 수정
 - Layernorm + initialization
   - [DeepNet](https://arxiv.org/abs/2203.00555)
